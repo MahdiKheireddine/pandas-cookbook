@@ -1,7 +1,15 @@
-# pandas
+# Pandas Cookbook
 
-Data & Code associated with my tutorial video on the pandas library of Python.
+This repository contains a collection of recipes, tutorials, and examples for using the Pandas library in Python for data manipulation, analysis, and visualization.
 
-Video found here: https://youtu.be/vmEHCJofslg
+## Introduction
 
-If you have any trouble with this repo, probably leaving a comment on the video is the best way to reach me and I'll try to resolve the issue as soon as possible!
+Pandas is a powerful open-source data analysis and manipulation library for Python. It provides easy-to-use data structures and functions to work with structured data efficiently. Whether you're just starting with Pandas or looking to expand your knowledge, this cookbook offers a range of practical examples and solutions to common data manipulation tasks.
+
+## Contents
+
+The repository is organized into the following sections:
+
+1. **Introduction to Pandas**: Basic tutorials and guides for getting started with Pandas.
+2. **Data Manipulation**: Recipes for common data manipulation tasks such as filtering, sorting, merging, and transforming data.
+3. **Data Analysis**: Examples of data analysis techniques including aggregation, grouping, and statistical analysis.
